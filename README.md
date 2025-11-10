@@ -88,8 +88,9 @@ Publish the website in the given URL.
 ![alt text](image-1.png)
 
 ## HOMEPAGE:
-![alt text](image.png)
 
+
+<img width="1919" height="972" alt="Screenshot 2025-11-10 084121" src="https://github.com/user-attachments/assets/8959801e-d660-4af8-8410-9c621bfc3175" />
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
